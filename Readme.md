@@ -1,6 +1,8 @@
 # This repo contains the code for the assignment 1 of visualization
 
- We developed a volume renderer based on a raycasting approach. We were provided with the skeleton application code, which provides a set-up of the whole graphics pipeline, a reader for volumetric data, and a slice-based renderer. The main task was to extend this to a full-fledged raycaster.
+Please, take a look to the [report](https://github.com/sergiers3/How-to-visualize-3D-data-/blob/master/Final%20report.pdf) for further info!
+
+We developed a volume renderer based on a raycasting approach. We were provided with the skeleton application code, which provides a set-up of the whole graphics pipeline, a reader for volumetric data, and a slice-based renderer. The main task was to extend this to a full-fledged raycaster.
  
  __1.- Ray casting:__ Tri-linear interpolation of samples along the viewing ray. __MIP and compositing ray functions__
  
