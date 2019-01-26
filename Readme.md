@@ -1,4 +1,4 @@
-# This repo contains the code for the assignment 1 of visualization
+# This repo contains the code for different visualization techniques
 
 Please, take a look to the [report](https://github.com/sergiers3/How-to-visualize-3D-data-/blob/master/Final%20report.pdf) for further info!
 
